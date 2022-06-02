@@ -1,7 +1,14 @@
 # Shushpanov Alexander
 
-### info
+### Contacts for communication
 *Lives
   *Sankt-Petersburg
   *Russia
+*Phone: _+7(951)664-04-69_
+*Telegram: [Link to my profile] (https://t.me/lamAlexander)
+*Discord: __Sushipan#0594__
+*Git hub: _Alexander-Konstantinovich_
+### about me
+*24 years old. I am studying in the direction of management in the fourth year, I have been working in the penal enforcement system for 2 years, I have no work experience or training in IT.*
+__Target: To change the field of activity to IT. But first finish stage0 and stage1.__
 
