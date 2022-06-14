@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+.container{
+    
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.header-top{
+    background-color: rgb(245, 212, 27);
+}
+
+.header-lg{
+    width: 75px;
+    height: 75px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.header-content{
+    background-color: rgb(250, 255, 175);
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 34px;
+    padding-left: 100px;
+    padding-top: 65px;
+}
+
+.avatar{
+    padding-top: 40px;
+    padding-right: 100px;
+    margin-bottom: 40px;
+
+}
+
+.photo__profile{
+    width: 350px;
+    height: 350px;
+    border-radius: 175px; 
+    border: 6px solid rgb(255, 238, 0); 
+    box-shadow: 0 0 7px #666;
+}
+
+.about{
+    background-color: rgb(250, 255, 175);
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 30px;
+}
+
+.about-info{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.info-subtitle{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align:center;
+    background-color: #f5f486;
+    margin: 0px;
+    font-size: 35px;
+}
+
+.contacts{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.contacts-text{
+    font-style: oblique;
+    padding-left: 50px;
+}
+
+.contacts-info{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contacts-item + .contacts-item{
+    margin-left: 2
+}
+
+.item-info{
+    background-color: #d3e39d;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.about-me{
+    max-width: 400px;
+}
+
+.about-me + .about-me{
+    margin-left: 10px;
+}
+
+
+.footer-inner{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(245, 212, 27);
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer-lg{
+    width: 75px;
+    height: 75px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.stage0{
+    font-size: 30px;
+    padding-top: 18px;
+}
+
+.footer-years{
+    font-size: 30px;
+    font-style: oblique;
+    padding-top: 20px;
+    padding-right: 10px;
+}
